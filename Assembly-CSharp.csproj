@@ -70,6 +70,7 @@
     <None Include="Assets\ShaderStudy1.0\shaderTemplate\NewImageEffectShader.shader" />
     <None Include="Assets\ShaderStudy1.0\shaderTemplate\NewSurfaceShader.shader" />
     <None Include="Assets\AwesomeUnityShader\Volume01\Bump.shader" />
+    <None Include="Assets\ShaderStudy2.0\NormalMap\NormalMap.shader" />
     <None Include="Assets\ShaderStudy2.0\ShaderTry\VertexColor.shader" />
     <None Include="Assets\ShaderStudy2.0\ShaderTry\FaceOrientation.shader" />
     <None Include="Assets\ShaderStudy2.0\AlphaTest\AlphaTest1.0.shader" />
