@@ -78,6 +78,7 @@
     <None Include="Assets\ShaderStudy2.0\DepthTest\Offset\OffsetRed.shader" />
     <None Include="Assets\ShaderStudy2.0\loading\Loading.shader" />
     <None Include="Assets\ShaderStudy1.0\Fragment\FragmentShader.shader" />
+    <None Include="Assets\ShaderStudy2.0\NormalMap\NormalMapOutline.shader" />
     <None Include="Assets\ShaderStudy2.0\loading\Loading1.shader" />
     <None Include="Assets\ShaderStudy2.0\DepthTest\Offset\OffsetGreen.shader" />
     <None Include="Assets\ShaderStudy1.0\Vertex\vertexShader.shader" />
