@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/ShaderStudy2.0/NormalMap/NormalMap.unity
+- path: Assets/ShaderStudy2.0/CubeMap/FalseReflect/ReflectTest.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

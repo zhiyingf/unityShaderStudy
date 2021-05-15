@@ -41,7 +41,7 @@
         {
             // Albedo comes from a texture tinted by color
             fixed4 c = tex2D (_MainTex, IN.uv_MainTex) * _Color;
-            o.Normal = UnpackNormal(tex2D(_NormalTex, IN.uv_MainTex));
+            o.Normal = UnpackNormal(tex2D(_NormalTex, IN.uv_MainTex)); 
             o.Albedo = c.rgb;
             o.Alpha = c.a;
         }
